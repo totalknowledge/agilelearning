@@ -10,4 +10,4 @@ The first technology and environment we will cover is git, GitHub, and some of t
 
 ## Lesson 1 - Getting your computer ready.
 
-Since presumably you will want to make changes to your project, the first task will be to clone this repository.  If you have not already done so it is necessary to create a GitHub account.  The page to register a new account is simply the [GitHub home page] (https://github.com/ "GitHub").
+Since presumably you will want to make changes to your project, the first task will be to clone this repository.  If you have not already done so it is necessary to create a GitHub account.  The page to register a new account is simply the [GitHub home page](https://github.com/ "GitHub").
